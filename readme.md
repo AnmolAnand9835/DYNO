@@ -74,4 +74,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ and lots of debugging by **Anmol**.
+Made with ❤️ and lots of debugging by **sudo_why**.
